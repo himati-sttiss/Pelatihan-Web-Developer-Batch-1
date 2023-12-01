@@ -1,4 +1,17 @@
 <h1 align ="center" >Pelatihan Web Developer Batch 1</h1>
+<br/>
+
+  * [I. Pendahuluan](#pendahuluan)
+  * [II. Maksud & Tujuan](#maksud-&-tujuan)
+  * [III. Rencana Kegiatan](#rencana-kegiatan)
+      - [III.I. Nama Kegiatan](#nama-kegiatan)
+      - [III.II. Pelaksanaan](#pelaksanaan)
+      - [III.III. Peserta](#peserta)
+      - [III.IV. Jadwal Kegiatan](#jadwal-kegiatan)
+  * [📸 Screenshots](#screenshots)
+  * [Meet The Teams](#meet-the-teams)
+  * [Author](#author)
+  * [License](#license)
 
 ## I. Pendahuluan
 Seiring dengan perkembangan era globalisasi, dunia Teknologi Informasi dan Komunikasi juga berkembang dengan pesat dan pada abad 21 ini Teknologi Informasi dan Komunikasi sudah menjadi kebutuhan primer bagi banyak kalangan. Dengan menggunakan Teknologi Informasi dan Komunikasi, suatu proses dan kegiatan dapat dilakukan dengan lebih cepat, mudah dan efisien. Oleh karena itu penguasaan terhadap perangkat teknologi komunikasi perlu diajarkan pada semua tingkatan.
@@ -93,7 +106,7 @@ Dana yang terkumpul akan dikelola secara transparan oleh HIMATI untuk mendukung 
 ### VI.IV. Penghargaan atau Pengakuan
 Kami akan memberikan penghargaan khusus kepada peserta yang berprestasi dan aktif dalam kegiatan pelatihan ini. Penghargaan ini dapat berupa sertifikat penghargaan, penampilan nama dalam daftar peserta terbaik, atau pengakuan khusus dalam acara pelatihan.
 
-<p align ="center" >Rencana Anggaran Biaya</p>
+Rencana Anggaran Biaya
 
 | Nama Pengeluaran | Alokasi |
 | --- | --- |
