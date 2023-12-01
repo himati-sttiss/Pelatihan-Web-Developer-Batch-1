@@ -16,7 +16,8 @@
       - [VI.III. Transparansi Dana](#viiii-transparansi-dana)
       - [VI.IV. Penghargaan atau Pengakuan](#viiv-penghargaan-atau-pengakuan)
   * [VII. Penutup](#vii-penutup)
-  * [License](#license)
+  * [Pengarang](#pengarang)
+  * [Lisense](#lisense)
 
 ## I. Pendahuluan
 Seiring dengan perkembangan era globalisasi, dunia Teknologi Informasi dan Komunikasi juga berkembang dengan pesat dan pada abad 21 ini Teknologi Informasi dan Komunikasi sudah menjadi kebutuhan primer bagi banyak kalangan. Dengan menggunakan Teknologi Informasi dan Komunikasi, suatu proses dan kegiatan dapat dilakukan dengan lebih cepat, mudah dan efisien. Oleh karena itu penguasaan terhadap perangkat teknologi komunikasi perlu diajarkan pada semua tingkatan.
@@ -123,3 +124,35 @@ Rencana Anggaran Biaya
 
 ## VII. Penutup
 Demikian proposal ini kami susun. Atas nama Panitia PELATIHAN IT : “WEB Developer Batch 1” Himpunan Mahasiswa Teknik Informatika STTI Sony Sugema, kami mengucapkan terima kasih atas perhatian dan kerjasama Bapak/Ibu. Semoga HIMATI semakin berkembang dan semakin profesional dalam bidang teknik informatika menjadi ruang inovasi untuk mahasiswa, dan dapat memberikan prestasi dan kontribusi untuk mengharumkan kampus STTI Sony Sugema. Salam Sukses & Mari berinovasi bersama menuju sukses tak terbatas.
+
+## Pengarang
+- Website: [himati.sttiss.ac.id](https://himati.sttis.ac.id/)
+- Github: [himati-sttiss](https://github.com/himati-sttiss)
+- Email: [himati.sttiss@gmail.com](mailto:himati.sttiss@gmail.com)
+- Linkedin: [himati-sttiss](https://www.linkedin.com/company/himati-sttiss/)
+- Instagram: [himati-sttiss](https://www.instagram.com/himati_sttiss/)
+- X: [himati-sttiss](https://twitter.com/himati_sttiss)
+
+## Lisensi
+
+Lisensi MIT
+
+Hak Cipta (c) 2023 HIMATI STTISS
+
+Izin dengan ini diberikan, tanpa dipungut biaya, kepada siapa pun yang memperoleh salinannya
+perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk ditangani
+dalam Perangkat Lunak tanpa batasan, termasuk tanpa batasan hak
+untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, mensublisensikan, dan/atau menjual
+salinan Perangkat Lunak, dan untuk mengizinkan orang yang memiliki Perangkat Lunak tersebut
+diperlengkapi untuk melakukannya, dengan syarat-syarat berikut:
+
+Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam keseluruhannya
+salinan atau sebagian besar Perangkat Lunak.
+
+PERANGKAT LUNAK INI DISEDIAKAN "APA ADANYA", TANPA JAMINAN APA PUN, SECARA TERSURAT MAUPUN
+TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN KELAYAKAN UNTUK DIPERDAGANGKAN,
+KESESUAIAN UNTUK TUJUAN TERTENTU DAN TIDAK PELANGGARAN. DALAM KEADAAN APA PUN
+PENULIS ATAU PEMEGANG HAK CIPTA BERTANGGUNG JAWAB ATAS KLAIM, KERUSAKAN ATAU LAINNYA
+TANGGUNG JAWAB, BAIK DALAM TINDAKAN KONTRAK, HUKUM ATAU LAINNYA, YANG TIMBUL DARI,
+DILUAR ATAU SEHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU HAL-HAL LAIN DALAM
+PERANGKAT LUNAK.
