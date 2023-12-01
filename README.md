@@ -1,16 +1,21 @@
 <h1 align ="center" >Pelatihan Web Developer Batch 1</h1>
 <br/>
 
-  * [I. Pendahuluan](#pendahuluan)
-  * [II. Maksud & Tujuan](#maksud-&-tujuan)
-  * [III. Rencana Kegiatan](#rencana-kegiatan)
-      - [III.I. Nama Kegiatan](#nama-kegiatan)
-      - [III.II. Pelaksanaan](#pelaksanaan)
-      - [III.III. Peserta](#peserta)
-      - [III.IV. Jadwal Kegiatan](#jadwal-kegiatan)
-  * [📸 Screenshots](#screenshots)
-  * [Meet The Teams](#meet-the-teams)
-  * [Author](#author)
+  * [I. Pendahuluan](#i-pendahuluan)
+  * [II. Maksud & Tujuan](#ii-maksud--tujuan)
+  * [III. Rencana Kegiatan](#iii-rencana-kegiatan)
+      - [III.I. Nama Kegiatan](#iiii-nama-kegiatan)
+      - [III.II. Pelaksanaan](#iiiii-pelaksanaan)
+      - [III.III. Peserta](#iiiiii-peserta)
+      - [III.IV. Jadwal Kegiatan](#iiiiv-jadwal-kegiatan)
+  * [IV. Kepanitian](#iv-kepanitian)
+  * [V. Silabus Pelatihan IT](#v-silabus-pelatihan-it)
+  * [VI. Sumber Daya Keuangan](#vi-sumber-daya-keuangan)
+      - [VI.I. Tujuan Dana](#vii-tujuan-dana)
+      - [VI.II. Mekanisme Penggalangan Dana](#viii-mekanisme-penggalangan-dana)
+      - [VI.III. Transparansi Dana](#viiii-transparansi-dana)
+      - [VI.IV. Penghargaan atau Pengakuan](#viiv-penghargaan-atau-pengakuan)
+  * [VII. Penutup](#vii-penutup)
   * [License](#license)
 
 ## I. Pendahuluan
