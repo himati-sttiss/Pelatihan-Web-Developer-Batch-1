@@ -17,18 +17,18 @@ Tujuan yang ingin dicapai dari dilaksanakan kegiatan ini :
 - Mengajarkan bagaimana menggunakan software-software yang dapat digunakan untuk membantu proses pekerjaan pada bidang WEB Developer
 
 ## III. Rencana Kegiatan
-### III.I Nama Kegiatan
+### III.I. Nama Kegiatan
 Pelatihan IT : WEB Developer Batch 1
 
-### III.II Pelaksanaan
+### III.II. Pelaksanaan
 Kegiatan ini akan dilaksanakan pada :
 Tanggal : Sabtu, 14 Oktober 2023
 Tempat : Kampus Sekolah Tinggi Teknologi Informatika Sony Sugema (Kampus A, SMK Plus Laboratorium Indonesia)
 
-### III.III Peserta
+### III.III. Peserta
 Peserta pelatihan ini adalah para Mahasiswa dengan jumlah peserta minimal 30 orang.
 
-### III.IV Jadwal Kegiatan
+### III.IV. Jadwal Kegiatan
 Oktober – Desember tahun 2023
 kegiatan pelatihan akan dilaksanakan disetiap hari Sabtu, pukul: 09:00 - 12:00 Wib.
 
@@ -53,14 +53,55 @@ Susunan kepanitiaan dari kegiatan ” Pelatihan IT: WEB Developer Batch 1 ” ad
   - Annisa Aditia N - Wakil Ketua Dept. Penelitian & Pengembangan HIMATI STTISS
 
 ## V. Silabus Pelatihan IT
-- Unit Kompetensi: Web Developer I
+- Unit Kompetensi: Web Developer I (Pertemuan 1)
+- Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
+- Unit Kompetensi: Web Developer II (Pertemuan 2)
+- Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
+- Unit Kompetensi: Web Developer III (Pertemuan 3)
+- Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
+- Unit Kompetensi: Web Developer IV (Pertemuan 4)
+- Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
+- Unit Kompetensi: Web Developer V (Pertemuan 5)
+- Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
+- Unit Kompetensi: Web Developer VI (Pertemuan 6)
+- Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
+- Unit Kompetensi: Web Developer VII (Pertemuan 7)
+- Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
+- Unit Kompetensi: Web Developer VIII (Pertemuan 8)
+- Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
+- Unit Kompetensi: Web Developer IX (Pertemuan 9)
+- Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
+- Unit Kompetensi: Web Developer X (Pertemuan 10)
+- Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
+- Unit Kompetensi: Web Developer XI (Pertemuan 11)
+- Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
+- Unit Kompetensi: Web Developer XII (Pertemuan 12)
 - Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
 
-| Learning Objective | Tingkat Kompetensi | Detail Pembelajaran | Materi Pelatihan | Pilihan Waktu Pelatihan | Status |
-| --- | --- | --- | --- | --- | --- |
-| Pengembangan program, web developer, HTML | Tingkat 1 | Persiapan membangun web dengan HTML | HTML, CSS, JavaScript | 1 | Aktif |
-| Pengembangan program, web developer, CSS | Tingkat 2 | Membuat tampilan web yang menarik dengan CSS | CSS, Bootstrap, Flexbox | 2 | Aktif |
-| Pengembangan program, web developer, JavaScript | Tingkat 3 | Membuat interaksi web yang dinamis dengan JavaScript | JavaScript, jQuery, AJAX | 3 | Aktif |
-| Pengembangan program, web developer, Node.js | Tingkat 4 | Membuat server dan aplikasi web dengan Node.js | Node.js, Express.js, MongoDB | 4 | Aktif |
-| Pengembangan program, web developer, React.js | Tingkat 5 | Membuat user interface web yang responsif dengan React.js | React.js, Redux, React Hooks | 5 | Aktif |
+## VI. Sumber Daya Keuangan
+Pada kegiatan pelatihan ini, kami akan melakukan penggalangan dana secara sukarela dari para peserta pelatihan.
 
+### VI.I. Tujuan Dana
+Dana yang dikumpulkan dari partisipasi sukarela peserta akan digunakan untuk mendukung berbagai aspek kegiatan HIMATI.
+
+### VI.II. Mekanisme Penggalangan Dana
+Peserta yang ingin berpartisipasi dalam penggalangan dana dapat melakukannya secara sukarela dengan berkontribusi sejumlah uang sesuai dengan kemampuan masing-masing. Kami sangat menghargai setiap kontribusi, dan tidak ada jumlah minimum yang diharapkan. Proses penggalangan dana akan diatur dengan sederhana, dengan peserta dapat memberikan kontribusi saat kegiatan pelatihan berlangsung.
+
+### VI.III. Transparansi Dana
+Dana yang terkumpul akan dikelola secara transparan oleh HIMATI untuk mendukung kegiatan HIMATI dan kegiatan pelatihan di masa depan. Laporan keuangan akan disediakan secara berkala kepada semua peserta agar peserta dapat melihat bagaimana dana mereka digunakan.
+
+### VI.IV. Penghargaan atau Pengakuan
+Kami akan memberikan penghargaan khusus kepada peserta yang berprestasi dan aktif dalam kegiatan pelatihan ini. Penghargaan ini dapat berupa sertifikat penghargaan, penampilan nama dalam daftar peserta terbaik, atau pengakuan khusus dalam acara pelatihan.
+
+<p align ="center" >Rencana Anggaran Biaya</p>
+
+| Nama Pengeluaran | Alokasi |
+| --- | --- |
+| i. Kas HIMATI | 40% |
+| ii. Investasi | 10% |
+| iii. Konsumsi | 20% |
+| iv. Pengembangan & Penelitian | 30% |
+| Total Pengunaan Anggaran | 100% |
+
+## VII. Penutup
+Demikian proposal ini kami susun. Atas nama Panitia PELATIHAN IT : “WEB Developer Batch 1” Himpunan Mahasiswa Teknik Informatika STTI Sony Sugema, kami mengucapkan terima kasih atas perhatian dan kerjasama Bapak/Ibu. Semoga HIMATI semakin berkembang dan semakin profesional dalam bidang teknik informatika menjadi ruang inovasi untuk mahasiswa, dan dapat memberikan prestasi dan kontribusi untuk mengharumkan kampus STTI Sony Sugema. Salam Sukses & Mari berinovasi bersama menuju sukses tak terbatas.
