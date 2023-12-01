@@ -15,3 +15,12 @@ Tujuan yang ingin dicapai dari dilaksanakan kegiatan ini :
 - Membuka peluang kerja dengan menggugah kreativitas anak-anak muda melalui jaringan digital
 - Mengenalkan kepada para Mahasiswa pentingnya penguasaan teknologi informasi dan komputer saat ini
 - Mengajarkan bagaimana menggunakan software-software yang dapat digunakan untuk membantu proses pekerjaan pada bidang WEB Developer
+
+## Rencana Kegiatan
+### Nama Kegiatan
+Pelatihan IT : WEB Developer Batch 1
+
+### Pelaksanaan
+Kegiatan ini akan dilaksanakan pada :
+Tanggal : Sabtu, 14 Oktober 2023
+Tempat : Kampus Sekolah Tinggi Teknologi Informatika Sony Sugema (Kampus A, SMK Plus Laboratorium Indonesia)
