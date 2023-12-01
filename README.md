@@ -17,7 +17,7 @@
       - [VI.IV. Penghargaan atau Pengakuan](#viiv-penghargaan-atau-pengakuan)
   * [VII. Penutup](#vii-penutup)
   * [Pengarang](#pengarang)
-  * [Lisense](#lisense)
+  * [Lisensi](#lisensi)
 
 ## I. Pendahuluan
 Seiring dengan perkembangan era globalisasi, dunia Teknologi Informasi dan Komunikasi juga berkembang dengan pesat dan pada abad 21 ini Teknologi Informasi dan Komunikasi sudah menjadi kebutuhan primer bagi banyak kalangan. Dengan menggunakan Teknologi Informasi dan Komunikasi, suatu proses dan kegiatan dapat dilakukan dengan lebih cepat, mudah dan efisien. Oleh karena itu penguasaan terhadap perangkat teknologi komunikasi perlu diajarkan pada semua tingkatan.
