@@ -41,7 +41,7 @@ Susunan kepanitiaan dari kegiatan ” Pelatihan IT: WEB Developer Batch 1 ” ad
 - Pemateri:
   - Aldi Ramdani - Ketua Umum HIMATI STTISS
   - Gilbert Hutapea - Ketua Dept. Penelitian & Pengembangan HIMATI STTISS
-- Pengurus HIMATI STTIS 2023:
+- Pengurus HIMATI STTISS 2023:
   - Aldi Ramdani - Ketua Umum HIMATI STTISS
   - Azis Maulana - Wakil Ketua Umum HIMATI STTISS
   - Sherin Nur Dzahra - Sekretaris Umum HIMATI STTISS
@@ -51,3 +51,21 @@ Susunan kepanitiaan dari kegiatan ” Pelatihan IT: WEB Developer Batch 1 ” ad
   - Miftachul Choir - Ketua Dept. PSDM HIMATI STTISS
   - Gilbert Hutapea - Ketua Dept. Penelitian & Pengembangan HIMATI STTISS
   - Annisa Aditia N - Wakil Ketua Dept. Penelitian & Pengembangan HIMATI STTISS
+
+## V. Silabus Pelatihan IT
+- Unit Kompetensi: Web Developer I
+- Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
+
+# Learning Objective
+
+| Tingkat Kompetensi | Detail Pembelajaran | Materi Pelatihan | Pilihan Waktu Pelatihan | knowledge | Attitude |
+| --- | --- | --- | --- | --- | --- |
+| Programmer | Pemahaman konsep dasar programming, serta mampu mengembangkan program dengan HTML | Pemrograman dasar | 1 | | |
+| Web Developer | Pemahaman konsep dasar web development, serta mampu membuat website dengan HTML, CSS, dan JavaScript | Web development dasar | 2 | | |
+| HTML | Pemahaman konsep dasar HTML, serta mampu membuat struktur dan konten website dengan HTML | HTML dasar | 1 | | |
+| CSS | Pemahaman konsep dasar CSS, serta mampu membuat tampilan dan layout website dengan CSS | CSS dasar | 1 | | |
+| JavaScript | Pemahaman konsep dasar JavaScript, serta mampu membuat interaksi dan fungsi website dengan JavaScript | JavaScript dasar | 1 | | |
+| Bootstrap | Pemahaman konsep dasar Bootstrap, serta mampu membuat website responsif dengan Bootstrap | Bootstrap dasar | 1 | | |
+| jQuery | Pemahaman konsep dasar jQuery, serta mampu memanfaatkan library jQuery untuk mempermudah pengembangan website | jQuery dasar | 1 | | |
+| Node.js | Pemahaman konsep dasar Node.js, serta mampu membuat server dan aplikasi web dengan Node.js | Node.js dasar | 2 | | |
+| Express.js | Pemahaman konsep dasar Express.js, serta mampu membuat framework web dengan Express.js | Express.js dasar | 2 | | |
