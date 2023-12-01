@@ -56,16 +56,11 @@ Susunan kepanitiaan dari kegiatan ” Pelatihan IT: WEB Developer Batch 1 ” ad
 - Unit Kompetensi: Web Developer I
 - Perkiraan Waktu Pelatihan: 3 Jam (2.5 jam : belajar) + (30 menit : istirahat)
 
-# Learning Objective
-
-| Tingkat Kompetensi | Detail Pembelajaran | Materi Pelatihan | Pilihan Waktu Pelatihan | knowledge | Attitude |
+| Learning Objective | Tingkat Kompetensi | Detail Pembelajaran | Materi Pelatihan | Pilihan Waktu Pelatihan | Status |
 | --- | --- | --- | --- | --- | --- |
-| Programmer | Pemahaman konsep dasar programming, serta mampu mengembangkan program dengan HTML | Pemrograman dasar | 1 | | |
-| Web Developer | Pemahaman konsep dasar web development, serta mampu membuat website dengan HTML, CSS, dan JavaScript | Web development dasar | 2 | | |
-| HTML | Pemahaman konsep dasar HTML, serta mampu membuat struktur dan konten website dengan HTML | HTML dasar | 1 | | |
-| CSS | Pemahaman konsep dasar CSS, serta mampu membuat tampilan dan layout website dengan CSS | CSS dasar | 1 | | |
-| JavaScript | Pemahaman konsep dasar JavaScript, serta mampu membuat interaksi dan fungsi website dengan JavaScript | JavaScript dasar | 1 | | |
-| Bootstrap | Pemahaman konsep dasar Bootstrap, serta mampu membuat website responsif dengan Bootstrap | Bootstrap dasar | 1 | | |
-| jQuery | Pemahaman konsep dasar jQuery, serta mampu memanfaatkan library jQuery untuk mempermudah pengembangan website | jQuery dasar | 1 | | |
-| Node.js | Pemahaman konsep dasar Node.js, serta mampu membuat server dan aplikasi web dengan Node.js | Node.js dasar | 2 | | |
-| Express.js | Pemahaman konsep dasar Express.js, serta mampu membuat framework web dengan Express.js | Express.js dasar | 2 | | |
+| Pengembangan program, web developer, HTML | Tingkat 1 | Persiapan membangun web dengan HTML | HTML, CSS, JavaScript | 1 | Aktif |
+| Pengembangan program, web developer, CSS | Tingkat 2 | Membuat tampilan web yang menarik dengan CSS | CSS, Bootstrap, Flexbox | 2 | Aktif |
+| Pengembangan program, web developer, JavaScript | Tingkat 3 | Membuat interaksi web yang dinamis dengan JavaScript | JavaScript, jQuery, AJAX | 3 | Aktif |
+| Pengembangan program, web developer, Node.js | Tingkat 4 | Membuat server dan aplikasi web dengan Node.js | Node.js, Express.js, MongoDB | 4 | Aktif |
+| Pengembangan program, web developer, React.js | Tingkat 5 | Membuat user interface web yang responsif dengan React.js | React.js, Redux, React Hooks | 5 | Aktif |
+
