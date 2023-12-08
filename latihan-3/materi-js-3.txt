@@ -1,0 +1,20 @@
+PERTEMUAN KE 7
+
+# Materi 1  : Koreksi Tugas JavaScript 2
+
+# Materi 2  : Penkondisian / Perbandingan
+
+# Materi 3  : Perulangan
+
+# Materi 5  : Latihan Menggunakan Pengkondisian dan Perulangan
+
+# Materi 6  : Built in Function JavaScript
+
+# Materi 7  : Latihan Menggunakan Built in Function JavaScript
+
+# Materi 8  : Membuat Function JavaScript
+
+# Materi 9  : Latihan Membuat Function
+
+Tugas Pertemuan 7 :
+

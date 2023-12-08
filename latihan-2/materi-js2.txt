@@ -1,0 +1,247 @@
+PERTEMUAN KE 6
+
+MATERI 1 :
+=> Perbedaan cara kerja PHP dan JavaScript :
+
+# PHP adalah bahasa pemrograman server-side yang berfokus pada pengolahan di server sebelum mengirimkan hasilnya ke browser.
+
+# JavaScript adalah bahasa pemrograman client-side yang dieksekusi di browser, memungkinkan pengembang untuk membuat halaman web yang dinamis dan interaktif.
+
+# Menjalankan JavaScript di Luar Browser dengan NodeJS
+======================================================
+
+MATERI 2 :
+=> Tipe Data Primitif dan Non Primitif
+
+# Tipe Data
+  Adalah jenis data yang disimpan, dimanipulasi, dan digunakan untuk memberitahu komputer bagaimana menafsirkan nilai atau datanya.
+
+  Tipe data menentukan jenis data yang dimiliki variabel dan cara mengelolanya.
+
+# Kita tidak dapat menerapkan operasi matematika untuk melakukan perkalian untuk tipe data String
+
+Contoh :  let a = 'Semangka' * 'Semangka'; (Salah)
+          let b = 1 * 1; (Benar)
+
+# Tipe Data Primitif
+  Merupakan tipe data yang hanya dapat menyimpan satu nilai.
+
+  Ada 7 Tipe Data Primitif:
+  1. String => "Budi" / 'Budi' / '1'
+  2. Number => 1
+  3. BigInt => 99999n
+  4. Boolean => false/ true/ 0 (falsy) / 1 (truthy)
+  5. Undefined => let a (tanpa nilai); = undefined
+  6. Null => let b = null; // null
+  7. Symbol => let nim = Symbol('NIM') / let nim = Symbol(1)
+
+>>Deskripsi Tipe Data Primitif:
+  *String : tipe data untuk mewakili data tekstual atau karakter.
+  *Number : tipe data untuk mewakili angkat positif & negatif termasuk bilangan bulat (integer) / desimal (float).
+  *BigInt : tipe data untuk menyimpan bilangan bulat tanpa batasan seperti Number.
+  *Boolean: tipe data yang hanya memiliki dua nilai, "true" dan "false".
+  *Undefined : nilai yang diberikan ketika variabel dideklarasikan tanpa inisialisasi atau tidak bernilai. Berlaku hanya untuk "var" dan "let".
+  *Null : Nilai yang digunakan untuk mewakili variabel yang tidak memiliki nilai, tapi nanti akan memiliki nilai.
+
+# Tipe Data Non-Primitif
+  Merupakan tipe data yang dapat menyimpan lebih dari satu nilai. Dan bersifat Object (mereka memiliki properti dan metode yang dapat diakses dan dimanipulasi).
+
+  Ada banyak tipe data non-primitif di JavaScript diantaranya:
+  1. Array
+  2. Object
+  3. Map
+  4. Set
+  5. WeakMap
+  6. WeakSet
+  7. Date
+  8. Function
+  9. RegExp (Regular Expression)
+  10.Error
+
+  >>Deskripsi Tipe Data Non-Primitif:
+  **Array : merupakan jenis objek yang dapat digunakan untuk menyimpan banyak nilai (elemen). Array memiliki indeks yang dimulai dari 0. elemen pertama di dalam array memiliki indeks 0, kedua yaitu 1, ketiga yaitu 2, dan seterusnya.
+
+  Pada umumnya pembuatan Array menggunakan tanda kurung siku " [] ", jika memiliki lebih dari satu nilai dipisahkan dengan tanda koma ",". Kita bisa memasukkan tipe data apa pun ke dalam array, termasuk array (Array Multidimensi), dan Object.
+  Contoh:
+  const mahasiswa = [
+    'Asep', 'Budi', 'Caca'
+  ];
+
+  **Object : merupakan tipe data yang kompleks yang memungkinkan kita bisa menyimpan banyak nilai dengan tipe data yang berbeda. Object berisi properti yang didefinisikan sebagai pasangan kunci dan nilai (key dan value).
+
+  Pada umumnya pembuatan Object menggunakan notasi literal, karena lebih mudah dibuat dan sering digunakan.
+  Untuk membuat objek literal properti key (kunci) dan value (nilai) dari suatu objek dibungkus dengan tanda kurung kurawal " {} ", jika memeliki lebih dari satu properti pisahkan dengan tanda koma ",".
+  Contoh:
+  const mahasiswa = {
+    nama: "Budi",
+    jurusan: "Teknik Informatika"
+  };
+
+=======================================================
+
+MATERI 3 :
+=> Operator JavaScript
+
+Operator adalah simbol yang digunakan untuk melakukan operasi pada suatu nilai dan variabel.
+
+Operator dalam pemrograman terbagi dalam 6 jenis:
+  1. Operator Assignment (Penugasan);
+  2. Operator Arithmetic (Aritmatika);
+  3. Operator Comparison (Perbandingan);
+  4. Operator Logical (Logika);
+  5. Operator Bitwise;
+  6. Operator Ternary;
+  7. Operator Type;
+
+>>Deskripsi :
+**Operator Assignment : merupakan operator yang berfungsi untuk menugaskan suatu nilai kedalam variabel.
+Simbol : =
+Contoh :
+  let a = 1;
+  var b = 2;
+  const c = 3;
+
+**Operator Arithmetic : merupakan operator melakukan operasi matematika.
+Simbol :
+1. +  (Addition)            : var a = 1; var b = 2; var c = a + b;
+  a. number : var a = 1; var b = 2; var c = a + b;
+  b. string : var namaDepan = "Aldi"; var namaBelakang = "Ramdani";
+              var namaLengkap = namaDepan + namaBelakang;
+              Jadi operator concatenate.
+2. -  (Subtraction)         : var a = 1; var b = 2; var c = a - b;
+3. *  (Multiplication)      : var a = 1; var b = 2; var c = a * b;
+4. ** (Exponentiation)      : var a = 1; var b = 2; var c = a ** b;
+5. /  (Division)            : var a = 1; var b = 2; var c = a / b;
+6. %  (Modulus / Sisa bagi) : var a = 1; var b = 2; var c = a % b;
+7. ++ (Increment)           : var a = 1; a++ / ++a;
+  a. prefix : variabel akan ditambahkan 1 terlebih dahulu,
+     kemudian nilai variabel a akan digunakan.
+     contoh : let a = 1; let y = ++a; console.log(a); console.log(y);
+  b. postfix : nilai variabel a akan digunakan terlebih dahulu,
+     kemudian nilai variabel a akan ditambahkan 1.
+     contoh : let a = 1; let z = a++; console.log(z); console.log(a);
+
+8. -- (Decrement)           : var a = 1; a-- ;
+  a. prefix : variabel akan dikurangi 1 terlebih dahulu,
+     kemudian nilai variabel b akan digunakan.
+     contoh : let b = 1; let y = --b; console.log(b); console.log(y);
+  b. postfix : nilai variabel b akan digunakan terlebih dahulu,
+     kemudian nilai variabel b akan dikurangi 1.
+     contoh : let b = 1; let z = b--; console.log(z); console.log(b);
+
+**Operator Comparison : merupakan operator yang digunakan untuk melakukan operasi perbandingan antara 2 nilai. Menghasilkan nilai "true" dan "false"
+Simbol :
+1. ==   (equal to):
+    var a = 1; var b = "1"; var c = a == b;
+2. ===  (equal value and equal type)
+    var a = 1; var b = "1"; var c = a === b;
+3. !=   (not equal)
+    var a = 1; var b = 1; var c = a != b;
+4. !==  (not equal value or not equal type)
+    var a = 1; var b = 1; var c = a !== b;
+5. >    (greater than)
+    var a = 1; var b = 1; var c = a > b;
+6. <    (less than)
+    var a = 1; var b = 1; var c = a < b;
+7. >=   (greater than or equal to)
+    var a = 1; var b = 3; var c = a >= b;
+8. <=   (less than or equal to)
+    var a = 3; var b = 1; var c = a <= b;
+
+
+>>Deskripsi :
+1. ==  : Fungsi untuk membandingkan kedua nilai apakah sama
+         (tidak identik);
+2. !=  : Fungsi untuk membandingkan kedua nilai apakah tidak sama
+         (tidak identik);
+3. === : Fungsi untuk membandingkan kedua nilai apakah identik.
+4. !== : Fungsi untuk membandingkan kedua nilai apakah tidak identik.
+5. >   : Fungsi untuk membandingkan dua nilai apakah nilai pertama lebih
+         dari nilai kedua.
+6. >=  : Fungsi untuk membandingkan dua nilai apakah nilai pertama lebih
+         atau sama dengan nilai kedua.
+7. <   : Fungsi untuk membandingkan dua nilai apakah nilai pertama kurang
+         dari nilai kedua.
+8. <=  : Fungsi untuk membandingkan dua nilai apakah nilai pertama kurang
+         atau sama dengan nilai kedua.
+
+
+**Operator Logical : merupakan operator yang digunakan untuk mengekspresikan hubungan logis antara dua atau lebih pernyataan.
+Operator logika dapat digunakan untuk membandingkan nilai, menguji kondisi, atau menentukan nilai kebenaran.
+
+1. && (AND)   : Menghasilkan nilai true jika kedua operand bernilai true.
+    contoh:
+      const a = 10;
+      const b = 10;
+      const hasil = a === b && a !== 5;
+2. || (OR)    : Menghasilkan nilai true jika salah satu operand bernilai true.
+    contoh:
+      const a = 5;
+      const b = 15;
+      const hasil = a > 10 || b > 10;
+3. !  (NOT)   : Mengahasilkan nilai true jika operand bernilai false.
+    contoh:
+      const a = 10;
+      const hasil = !a === 10;
+
+**Operator Bitwise : merupakan operator yang berpoerasi pada level bit dari bilangan integer. Operator bitwise digunakan untuk memanipulasi nilai bit secara langsung.
+
+Simbol :
+operator  Description              Example    Same as       Result  Decimal
+1. &      (AND)                  : 5 & 1    : 0101 & 0001 : 0001    : 1
+2. |      (OR)                   : 5        : 0101 | 0001 : 0101    : 5
+3. ~      (NOT)                  : ~ 5      : ~0101       : 1010    : 10
+4. ^      (XOR)                  : 5 ^ 1    : 0101 ^ 0001 : 0100    : 4
+5. <<     (left shift)           : 5 << 1   : 0101 << 1   : 1010    : 10
+6. >>     (right shift)          : 5 >> 1   : 0101 >> 1   : 0010    : 2
+7. >>>    (unsigned right shift) : 5 >>> 1  : 0101 >>> 1  : 0010    : 2
+
+
+**Operator Ternary: merupakan operator kondisional yang digunakan untuk mengevaluasi ekspresi kondisional dan mengembalikan nilai berdasarkan hasil evaluasi. Operator ternary sering disebut sebgai operator if-else inline karena dapat digunakan untuk menggantikan pernyataan if-else.
+
+Simbol:
+    ?    (ternary operator)
+    var a = 12; var nilai = a % 2 == 0 ? 'genap' : 'ganjil';
+
+**Operator Type: merupakan operator untuk mengonversi nilai dari satu tipe data ke tipe data lain. Operator type ini berguna untuk berbagai keperluan, seperti:
+
+1. Mengonversi data input dari pengguna ke tipe data yang sesuai.
+2. Mengonversi data dari hasil perhitungan ke tipe data yang diperlukan.
+3. Mengonversi data dari satu tipe data ke tipe data lain untuk keperluan penyimpanan atau pemrosesan.
+
+operator:       Description
+1. typeof()     : Return the type of a variable : var a = 1; typeof(a);
+2. instanceOf() : Return true if an object is an instance of an object type
+                var a = 1; instanceOf(a);
+3. parseInt()   : Mengonversi string ke bilangan bulat;
+4. parseFloat() : Mengonversi string ke nilai boolean;
+5. String()     : Mengonversi nilai dari tipe data apa pun ke string;
+6 And More ..
+
+
+Latihan :
+1.Buat variabel untuk menyimpan NAMA MAKANAN sebagai String, HARGA sebagai Number, STOCK sebagai Number.
+
+2. Nama Depan     : Budi
+   Nama Belakang  : Aja
+   Output         : "Budi Aja"
+
+3. Program Kalkulator
+   Case Pertama
+   Angka  1     : 2
+   Angka  2     : 2
+   Output 1     : "Hasil 2 + 2 = 4";
+   Output 2     : "Hasil 2 - 2 = 0";
+   Output 3     : "Hasil 2 * 2 = 4";
+   Output 4     : "Hasil 2 / 2 = 1";
+
+   Case Kedua
+   Angka  1     : 3
+   Angka  2     : 4
+   Output 1     : "Hasil 3 + 4 = 7";
+   Output 2     : "Hasil 3 - 4 = -1";
+   Output 3     : "Hasil 3 * 4 = 12";
+   Output 4     : "Hasil 3 / 4 = 0.75";
+
+
+   Buat kode program yang menghasilkan output sesuai study case diatas.
